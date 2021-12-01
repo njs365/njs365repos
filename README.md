@@ -1,3 +1,3 @@
 # njs365repos
 
-#Encryption cannot only be used on text, but also on images. There are numerous algorithms that you can use to encrypt the image. Some examples include AES (Advanced Encryption Standard), DES (Data Encryption Standard), RSA (Rivest-Shamir-Adleman) which can be used to encrypt the image to protect it from a hacker. Even if the hacker gets access to the image over the internet, to decrypt it, the hacker first needs access to keys and then convert the image into the required format. In any case, the project gives a solid understanding and exhibits that you have a knack for cryptography. Also, the project is not too advanced and can be made if you’re beginning to dive into cybersecurity. - GeeksforGeeks
+#Write code that uses encryption can also be usedon images. If the hacker gets a hold of the image on the internet, the hacker would needs access keys and then convert the image into the required format to decrypt it.
